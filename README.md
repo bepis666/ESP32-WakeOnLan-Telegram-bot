@@ -4,6 +4,9 @@ Turn your PC on using Telegram and ESP32
 
 Setup
 
+Libraries used:
+![Этот](https://github.com/GyverLibs/FastBot)
+
 1. Make sure your target device supports Wake On Lan. You may need to enable it in the BIOS and/or your Network Card's Device Manager. You may also need to disable Windows Fast Startup
 2. Create a Telegram bot using BotFather and get the API token
 3. In the main file, change the parameters of your Wi-Fi network and bot token

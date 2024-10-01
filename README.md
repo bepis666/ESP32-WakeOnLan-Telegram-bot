@@ -17,6 +17,5 @@ Setup
    #define WIFI_SSID "Your WiFi name"
    #define WIFI_PASS "Your WiFI password"
    #define BOT_TOKEN "Your Telegram bot token"
-   #define FORMAT_SPIFFS_IF_FAILED true
    ```
 5. Сompile the code and upload the firmware to the microcontroller

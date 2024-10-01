@@ -23,6 +23,6 @@
 ##Usage
 
 * /wol_list List devices
-* /wol_add Add device _/wol_add [Name] [MAC]_
-* /wol_del Delete device _/wol_del [ID]_
-* /wol_on Turn on the device _/wol_on [ID]_
+* /wol_add Add device (_/wol_add [Name] [MAC]_)
+* /wol_del Delete device (_/wol_del [ID]_)
+* /wol_on Turn on the device (_/wol_on [ID]_)

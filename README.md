@@ -2,6 +2,14 @@
 
 ![image](https://github.com/user-attachments/assets/77362d3b-ad12-4962-9442-120ff87dfed6)
 
+## Features
+
+* Don't need a static IP
+* No need for Raspberry Pi or similar
+* Wireless
+* Low power consumption (less than 1 watt)
+* Ability to add new devices via bot
+
 ## Libraries used:
 1. [FastBot](https://github.com/GyverLibs/FastBot)
 2. [Pairs](https://github.com/GyverLibs/Pairs)

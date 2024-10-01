@@ -22,5 +22,5 @@
 
 ##Usage
 
-'' /wol_list
-.. /wol_add
+* /wol_list
+* /wol_add

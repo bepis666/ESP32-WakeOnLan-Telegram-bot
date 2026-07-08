@@ -33,8 +33,22 @@
 ### /wol_list 
 List devices
 ### /wol_add 
-Add device. Usage: _/wol_add [Name] [MAC]_
+Add device. Usage: 
+```C
+/wol_add [Name] [MAC]
+ ```
 ### /wol_del 
-Delete device. Usage: _/wol_del [ID]_
+Delete device. Usage:
+```C
+/wol_del [ID]
+ ```
 ### /wol_on 
-Turn on the device. Usage: _/wol_on [ID]_
+Turn on the device. Usage: 
+```C
+/wol_on [ID]
+ ```
+## To do
+
+- Rebooting schedule
+- Validation with profiles: admin, user
+- Ping device
